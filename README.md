@@ -14,3 +14,7 @@ Start by topic (based on LeetCode Learning Cards) to first familiarise the algor
 11. HashTable
 12. Array and String
 13. Machine Learning
+
+**30-Day LeetCoding Chanllenge**
+From April 1st to April 30th
+1. Single Number
