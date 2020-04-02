@@ -18,3 +18,4 @@ Start by topic (based on LeetCode Learning Cards) to first familiarise the algor
 **30-Day LeetCoding Chanllenge**
 From April 1st to April 30th
 1. Single Number
+2. Happy Number
