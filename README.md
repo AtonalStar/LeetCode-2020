@@ -1,6 +1,6 @@
-﻿# LeetCode-2020 
+﻿# LeetCode 
 This repository is for LeetCode practice starting from 13/01/2020
-
+(Old_LeetCode contains old exercises in 2018 )
 **Start by topic**
  (based on LeetCode Learning Cards) to first familiarise the algorithms and data structures, may use different programming languages but primarily use Java. 
 1. Binary Search 
@@ -18,8 +18,7 @@ This repository is for LeetCode practice starting from 13/01/2020
 13.  Machine Learning 
 
 **30-Day LeetCoding Chanllenge** 
-From April 1st to April 30th 
-- Week 1
 1. Single Number
-2. Happy Number
+2.  Happy Number
 3. Maximum Subarray  
+4. Move Zeroes
