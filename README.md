@@ -17,8 +17,11 @@ This repository is for LeetCode practice starting from 13/01/2020
 12.  Array and String 
 13.  Machine Learning 
 
-**30-Day LeetCoding Chanllenge** 
+**Everyday Chanllenge** 
 1. Single Number
 2.  Happy Number
 3. Maximum Subarray  
 4. Move Zeroes
+
+**Java Thread**
+1. Print In Order (No 1114)
