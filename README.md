@@ -1,6 +1,7 @@
 ﻿# LeetCode 
 This repository is for LeetCode practice starting from 13/01/2020
-(Old_LeetCode contains old exercises in 2018 )
+(Old_LeetCode contains old exercises in 2018)
+
 **Start by topic**
  (based on LeetCode Learning Cards) to first familiarise the algorithms and data structures, may use different programming languages but primarily use Java. 
 1. Binary Search 
