@@ -6,8 +6,7 @@ This repository is for LeetCode practice starting from 13/01/2020
  (based on LeetCode Learning Cards) to first familiarise the algorithms and data structures, may use different programming languages but primarily use Java. 
 1. Binary Search 
 2.  Binary Tree 
-<!--
-3.  Binary Search Tree 
+<!--3.  Binary Search Tree 
 4.  Decision Tree 
 5.  N-ary Tree 
 6.  Trie (Prefix Tree)
